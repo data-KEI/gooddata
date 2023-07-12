@@ -4,7 +4,11 @@
 - [공공데이터 목록등록관리](https://all.data.go.kr/): 과제 책임자(실무자) 가입, 공인인증서 필요
 - [공공데이터 품질관리 수준평가 시스템](https://gooddata.go.kr/dqe/): 환경데이터전략센터 문의  
 - [공공데이터 제공 운영싩태 평가시스템](https://gooddata.go.kr/dse/account/login): 환경데이터전략센터 문의  
-    
+### 2023년 품질관리 수준평가용 SW설치(WDQ 6.0임, 6.1은 7월말 배포 예정)
+- 매뉴얼: [설치 가이드](https://gooddata.go.kr/dqe/files/attachments/85984), [사용자 매뉴얼](https://gooddata.go.kr/dqe/files/attachments/86010)
+- 최초 설치: [처음 설치 파일](https://gooddata.go.kr/dqe/files/attachments/85919)
+- 업그레이드 설치: [업그레이드 설치 파일](https://gooddata.go.kr/dqe/files/attachments/85923)
+- 구 버전 삭제: [5.x 버전 삭제 파일](https://gooddata.go.kr/dqe/files/attachments/85918),
 - [범정부EA포털(GEAP)](https://www.geap.go.kr/real/): 지식정보팀 문의  
 - [행정·공공기관 보유 데이터베이스 현황 관리시스템](https://gooddata.go.kr/qtyeval/login.do): EA 연동
 - [기관메타시스템](https://public.meta.go.kr/gdp): EA 연동
