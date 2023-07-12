@@ -1,5 +1,5 @@
 ## 공공데이터 품질관리
-- [공공데이터 품질관리 수준평가 필수양식](https://gooddata.go.kr/dqe/files/attachments/86028)
+- [공공데이터 품질관리 수준평가 필수양식 7/12 수정, 6/23 게시](https://gooddata.go.kr/dqe/files/attachments/86028)
 - [KEI-IDR 시스템](http://idr.kei.re.kr:8080/): 인트라넷 로그인 연동(우측 하단 메뉴 중 KEI-IDR 클릭), 환경데이터전략센터 문의  
 - [공공데이터 목록등록관리](https://all.data.go.kr/): 과제 책임자(실무자) 가입, 공인인증서 필요
 - [공공데이터 품질관리 수준평가 시스템](https://gooddata.go.kr/dqe/): 환경데이터전략센터 문의  
