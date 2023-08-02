@@ -5,7 +5,7 @@
 - [공공데이터 품질관리 수준평가 시스템](https://gooddata.go.kr/dqe/): 환경데이터전략센터 문의  
 - [공공데이터 제공 운영싩태 평가시스템](https://gooddata.go.kr/dse/account/login): 환경데이터전략센터 문의  
 ### 2023년 품질관리 수준평가용 SW설치(WDQ 6.0임, 6.1은 7월말 배포 예정)
-- [2023년 KEI DB 실무담당자 필독!!!](2023)
+- <b>[2023년 KEI DB 실무담당자 필독!!!](2023)</b>
 - 매뉴얼: [설치 가이드](https://gooddata.go.kr/dqe/files/attachments/85984), [사용자 매뉴얼](https://gooddata.go.kr/dqe/files/attachments/86010)
 - 최초 설치: [처음 설치 파일](https://gooddata.go.kr/dqe/files/attachments/85919)
 - 업그레이드 설치: [업그레이드 설치 파일](https://gooddata.go.kr/dqe/files/attachments/85923)
