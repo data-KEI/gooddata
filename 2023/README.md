@@ -6,3 +6,6 @@
 - [수준평가 시스템](https://gooddata.go.kr/dqe/dept) 접속이 안될 경우, [목록등록관리시스템](https://all.data.go.kr/) 접속 확인
 - 목록등록관리시스템 접속 후 좌측 메뉴 중 기관 시스템 연계 > 품질관리 수준진단 평가 > 평가시스템으로 이동 클릭
 - [(총괄only) 보유DB시스템](https://gooddata.go.kr/qtyeval2/mdmIndex.do?url=#/qtyeval2/mdmDashboard.do)  
+## 평가용SW
+- [WDQ](http://gooddata.kei.re.kr:38080/wisead/)  
+- [SDQ](http://gooddata.kei.re.kr:28090/sdq/)  
