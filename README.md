@@ -1,9 +1,9 @@
-## 공공데이터 품질관리
+## 2024년 공공데이터 품질관리
 - [공공데이터 품질관리 수준평가 필수양식 7/12 수정, 6/23 게시](https://gooddata.go.kr/dqe/files/attachments/86028)
 - [KEI-IDR 시스템](http://idr.kei.re.kr:8080/): 인트라넷 로그인 연동(우측 하단 메뉴 중 KEI-IDR 클릭), 환경데이터전략센터 문의  
 - [공공데이터 목록등록관리](https://all.data.go.kr/): 과제 책임자(실무자) 가입, 공인인증서 필요
-- [공공데이터 품질관리 수준평가 시스템](https://gooddata.go.kr/dqe/): 환경데이터전략센터 문의  
-- [공공데이터 제공 운영싩태 평가시스템](https://gooddata.go.kr/dse/account/login): 환경데이터전략센터 문의  
+- ~~[공공데이터 품질관리 수준평가 시스템](https://gooddata.go.kr/dqe/): 환경데이터전략센터 문의~~  
+- ~~[공공데이터 제공 운영싩태 평가시스템](https://gooddata.go.kr/dse/account/login): 환경데이터전략센터 문의~~  
 ### 2023년 품질관리 수준평가용 SW설치(WDQ 6.0임, 6.1은 7월말 배포 예정)
 - <b>[2023년 KEI DB 실무담당자 필독!!!](2023)</b>
 - 매뉴얼: [설치 가이드](https://gooddata.go.kr/dqe/files/attachments/85984), [사용자 매뉴얼](https://gooddata.go.kr/dqe/files/attachments/86010)
