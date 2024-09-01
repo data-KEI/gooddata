@@ -1,6 +1,6 @@
 ## 2024년 KEI 공공데이터 품질관리 가이드라인
 - (지식정보팀 문의) [정보자원시스템(IRM) 정비](https://www.irm.go.kr/): 현행정보시스템으로 등록되면, 공공데이터 대상이 됨.
-- [KEI-IDR 시스템](http://idr.kei.re.kr:8080/): 인트라넷 로그인 연동(우측 하단 메뉴 중 KEI-IDR 클릭), 환경데이터전략센터 문의  
+- [기관메타시스템](https://public.meta.go.kr/gdp/): 5월, 8월, 12월 DB메타 현행화
 - [공공데이터 목록등록관리](https://all.data.go.kr/): 과제 책임자(실무자) 가입, 공인인증서 필요
 - ~~[공공데이터 품질관리 수준평가 시스템](https://gooddata.go.kr/dqe/): 환경데이터전략센터 문의~~  
 - ~~[공공데이터 제공 운영싩태 평가시스템](https://gooddata.go.kr/dse/account/login): 환경데이터전략센터 문의~~  
